@@ -21,7 +21,7 @@
 
 
 Field::Field(){
-bool isPit=false	;
+bool isPit=true;
 }
 Field:: ~Field(){
 	;
